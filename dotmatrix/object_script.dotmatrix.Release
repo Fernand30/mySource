@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\maindialog.o
+./release\imagemodel.o
+./release\mainwindow.o
+./release\pixeldelegate.o
+./release\qrc_images.o
+./release\moc_maindialog.o
+./release\moc_imagemodel.o
+./release\moc_mainwindow.o
+./release\moc_pixeldelegate.o
+);

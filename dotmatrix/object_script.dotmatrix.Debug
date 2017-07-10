@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\maindialog.o
+./debug\imagemodel.o
+./debug\mainwindow.o
+./debug\pixeldelegate.o
+./debug\qrc_images.o
+./debug\moc_maindialog.o
+./debug\moc_imagemodel.o
+./debug\moc_mainwindow.o
+./debug\moc_pixeldelegate.o
+);

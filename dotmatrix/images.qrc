@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/qt.png</file>
+        <file>images/open.png</file>
+        <file>images/save.png</file>
+        <file>images/decrease.png</file>
+        <file>images/increase.png</file>
+        <file>images/decrease-_on.png</file>
+        <file>images/increase_on.png</file>
+        <file>images/open_on.png</file>
+        <file>images/save_on.png</file>
+        <file>images/icon.png</file>
+        <file>images/about.png</file>
+    </qresource>
+</RCC>
